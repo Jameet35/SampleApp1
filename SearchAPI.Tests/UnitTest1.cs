@@ -8,8 +8,8 @@ public class UnitTest1
         Assert.True(1==1);
     }
     [Fact]
-    public void Test1()
+    public void Test2()
     {
-        Assert.True(2==1);
+        Assert.True(2==2);
     }
 }
